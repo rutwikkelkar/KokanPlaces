@@ -1,0 +1,2 @@
+CHANGED,D:\Android App\Prototype_1\Prototype\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\aniket\myapplication\MainActivity$override.class
+CHANGED,D:\Android App\Prototype_1\Prototype\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
